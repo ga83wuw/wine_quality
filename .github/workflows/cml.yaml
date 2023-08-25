@@ -18,3 +18,4 @@ jobs:
 
           echo "MODEL METRICS"
           cat metrics.txt
+          
